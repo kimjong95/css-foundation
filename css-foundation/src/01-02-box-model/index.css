@@ -1,0 +1,21 @@
+/* .box1 {
+  background-color: grey;
+  width: 300px;
+  height: 100px;
+  border: 2px solid red;
+
+  padding: 50px;
+  margin: 25px;
+} */
+
+div {
+  width: 200px;
+  height: 100px;
+  background-color: lightgreen;
+}
+
+.box1 {
+  padding: 10px;
+  border: 1px solid blue;
+  box-sizing: border-box;
+}
